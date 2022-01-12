@@ -1,4 +1,4 @@
 # Dad-Jokes
-Using JS fetch API to call Dad Jokes API
+Using the fetch API to Make AJAX Calls in JavaScript (Dad Jokes API)
 
 To view the HTML file please use Live Server (Cool extension with VS code and other text editors/IDEs).
