@@ -1,4 +1,4 @@
 # Dad-Jokes
 Using JS fetch to call Dad Jokes API
 
-To view HTML file please use Live Server that you can use with VS code.
+To view the HTML file please use Live Server (Cool extension with VS code and other IDEs).
